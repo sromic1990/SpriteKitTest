@@ -7,69 +7,70 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A93E15912080877C00F8D4FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93E15902080877C00F8D4FF /* AppDelegate.swift */; };
-		A93E15932080877C00F8D4FF /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A93E15922080877C00F8D4FF /* GameScene.sks */; };
-		A93E15952080877C00F8D4FF /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = A93E15942080877C00F8D4FF /* Actions.sks */; };
-		A93E15972080877C00F8D4FF /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93E15962080877C00F8D4FF /* GameScene.swift */; };
-		A93E15992080877C00F8D4FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93E15982080877C00F8D4FF /* ViewController.swift */; };
-		A93E159B2080877C00F8D4FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A93E159A2080877C00F8D4FF /* Assets.xcassets */; };
-		A93E159E2080877C00F8D4FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A93E159C2080877C00F8D4FF /* Main.storyboard */; };
-		A93E15AA2080877C00F8D4FF /* InsideTheHatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93E15A92080877C00F8D4FF /* InsideTheHatTests.swift */; };
-		A93E15B52080877C00F8D4FF /* InsideTheHatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93E15B42080877C00F8D4FF /* InsideTheHatUITests.swift */; };
+		A99F5EA020808EB70096E316 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99F5E9F20808EB70096E316 /* AppDelegate.swift */; };
+		A99F5EA220808EB70096E316 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A99F5EA120808EB70096E316 /* GameScene.sks */; };
+		A99F5EA420808EB70096E316 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = A99F5EA320808EB70096E316 /* Actions.sks */; };
+		A99F5EA620808EB70096E316 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99F5EA520808EB70096E316 /* GameScene.swift */; };
+		A99F5EA820808EB70096E316 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99F5EA720808EB70096E316 /* GameViewController.swift */; };
+		A99F5EAB20808EB70096E316 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A99F5EA920808EB70096E316 /* Main.storyboard */; };
+		A99F5EAD20808EB70096E316 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A99F5EAC20808EB70096E316 /* Assets.xcassets */; };
+		A99F5EB020808EB70096E316 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A99F5EAE20808EB70096E316 /* LaunchScreen.storyboard */; };
+		A99F5EBB20808EB70096E316 /* InsideTheHatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99F5EBA20808EB70096E316 /* InsideTheHatTests.swift */; };
+		A99F5EC620808EB70096E316 /* InsideTheHatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99F5EC520808EB70096E316 /* InsideTheHatUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A93E15A62080877C00F8D4FF /* PBXContainerItemProxy */ = {
+		A99F5EB720808EB70096E316 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A93E15852080877C00F8D4FF /* Project object */;
+			containerPortal = A99F5E9420808EB70096E316 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A93E158C2080877C00F8D4FF;
+			remoteGlobalIDString = A99F5E9B20808EB70096E316;
 			remoteInfo = InsideTheHat;
 		};
-		A93E15B12080877C00F8D4FF /* PBXContainerItemProxy */ = {
+		A99F5EC220808EB70096E316 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A93E15852080877C00F8D4FF /* Project object */;
+			containerPortal = A99F5E9420808EB70096E316 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A93E158C2080877C00F8D4FF;
+			remoteGlobalIDString = A99F5E9B20808EB70096E316;
 			remoteInfo = InsideTheHat;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A93E158D2080877C00F8D4FF /* InsideTheHat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InsideTheHat.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A93E15902080877C00F8D4FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A93E15922080877C00F8D4FF /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		A93E15942080877C00F8D4FF /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		A93E15962080877C00F8D4FF /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		A93E15982080877C00F8D4FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A93E159A2080877C00F8D4FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A93E159D2080877C00F8D4FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A93E159F2080877C00F8D4FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A93E15A02080877C00F8D4FF /* InsideTheHat.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = InsideTheHat.entitlements; sourceTree = "<group>"; };
-		A93E15A52080877C00F8D4FF /* InsideTheHatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InsideTheHatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A93E15A92080877C00F8D4FF /* InsideTheHatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideTheHatTests.swift; sourceTree = "<group>"; };
-		A93E15AB2080877C00F8D4FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A93E15B02080877C00F8D4FF /* InsideTheHatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InsideTheHatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A93E15B42080877C00F8D4FF /* InsideTheHatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideTheHatUITests.swift; sourceTree = "<group>"; };
-		A93E15B62080877C00F8D4FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A99F5E9C20808EB70096E316 /* InsideTheHat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InsideTheHat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A99F5E9F20808EB70096E316 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A99F5EA120808EB70096E316 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		A99F5EA320808EB70096E316 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		A99F5EA520808EB70096E316 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		A99F5EA720808EB70096E316 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		A99F5EAA20808EB70096E316 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A99F5EAC20808EB70096E316 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A99F5EAF20808EB70096E316 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A99F5EB120808EB70096E316 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A99F5EB620808EB70096E316 /* InsideTheHatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InsideTheHatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A99F5EBA20808EB70096E316 /* InsideTheHatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideTheHatTests.swift; sourceTree = "<group>"; };
+		A99F5EBC20808EB70096E316 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A99F5EC120808EB70096E316 /* InsideTheHatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InsideTheHatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A99F5EC520808EB70096E316 /* InsideTheHatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideTheHatUITests.swift; sourceTree = "<group>"; };
+		A99F5EC720808EB70096E316 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A93E158A2080877C00F8D4FF /* Frameworks */ = {
+		A99F5E9920808EB70096E316 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93E15A22080877C00F8D4FF /* Frameworks */ = {
+		A99F5EB320808EB70096E316 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93E15AD2080877C00F8D4FF /* Frameworks */ = {
+		A99F5EBE20808EB70096E316 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -79,56 +80,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A93E15842080877C00F8D4FF = {
+		A99F5E9320808EB70096E316 = {
 			isa = PBXGroup;
 			children = (
-				A93E158F2080877C00F8D4FF /* InsideTheHat */,
-				A93E15A82080877C00F8D4FF /* InsideTheHatTests */,
-				A93E15B32080877C00F8D4FF /* InsideTheHatUITests */,
-				A93E158E2080877C00F8D4FF /* Products */,
+				A99F5E9E20808EB70096E316 /* InsideTheHat */,
+				A99F5EB920808EB70096E316 /* InsideTheHatTests */,
+				A99F5EC420808EB70096E316 /* InsideTheHatUITests */,
+				A99F5E9D20808EB70096E316 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A93E158E2080877C00F8D4FF /* Products */ = {
+		A99F5E9D20808EB70096E316 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A93E158D2080877C00F8D4FF /* InsideTheHat.app */,
-				A93E15A52080877C00F8D4FF /* InsideTheHatTests.xctest */,
-				A93E15B02080877C00F8D4FF /* InsideTheHatUITests.xctest */,
+				A99F5E9C20808EB70096E316 /* InsideTheHat.app */,
+				A99F5EB620808EB70096E316 /* InsideTheHatTests.xctest */,
+				A99F5EC120808EB70096E316 /* InsideTheHatUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A93E158F2080877C00F8D4FF /* InsideTheHat */ = {
+		A99F5E9E20808EB70096E316 /* InsideTheHat */ = {
 			isa = PBXGroup;
 			children = (
-				A93E15902080877C00F8D4FF /* AppDelegate.swift */,
-				A93E15922080877C00F8D4FF /* GameScene.sks */,
-				A93E15942080877C00F8D4FF /* Actions.sks */,
-				A93E15962080877C00F8D4FF /* GameScene.swift */,
-				A93E15982080877C00F8D4FF /* ViewController.swift */,
-				A93E159A2080877C00F8D4FF /* Assets.xcassets */,
-				A93E159C2080877C00F8D4FF /* Main.storyboard */,
-				A93E159F2080877C00F8D4FF /* Info.plist */,
-				A93E15A02080877C00F8D4FF /* InsideTheHat.entitlements */,
+				A99F5E9F20808EB70096E316 /* AppDelegate.swift */,
+				A99F5EA120808EB70096E316 /* GameScene.sks */,
+				A99F5EA320808EB70096E316 /* Actions.sks */,
+				A99F5EA520808EB70096E316 /* GameScene.swift */,
+				A99F5EA720808EB70096E316 /* GameViewController.swift */,
+				A99F5EA920808EB70096E316 /* Main.storyboard */,
+				A99F5EAC20808EB70096E316 /* Assets.xcassets */,
+				A99F5EAE20808EB70096E316 /* LaunchScreen.storyboard */,
+				A99F5EB120808EB70096E316 /* Info.plist */,
 			);
 			path = InsideTheHat;
 			sourceTree = "<group>";
 		};
-		A93E15A82080877C00F8D4FF /* InsideTheHatTests */ = {
+		A99F5EB920808EB70096E316 /* InsideTheHatTests */ = {
 			isa = PBXGroup;
 			children = (
-				A93E15A92080877C00F8D4FF /* InsideTheHatTests.swift */,
-				A93E15AB2080877C00F8D4FF /* Info.plist */,
+				A99F5EBA20808EB70096E316 /* InsideTheHatTests.swift */,
+				A99F5EBC20808EB70096E316 /* Info.plist */,
 			);
 			path = InsideTheHatTests;
 			sourceTree = "<group>";
 		};
-		A93E15B32080877C00F8D4FF /* InsideTheHatUITests */ = {
+		A99F5EC420808EB70096E316 /* InsideTheHatUITests */ = {
 			isa = PBXGroup;
 			children = (
-				A93E15B42080877C00F8D4FF /* InsideTheHatUITests.swift */,
-				A93E15B62080877C00F8D4FF /* Info.plist */,
+				A99F5EC520808EB70096E316 /* InsideTheHatUITests.swift */,
+				A99F5EC720808EB70096E316 /* Info.plist */,
 			);
 			path = InsideTheHatUITests;
 			sourceTree = "<group>";
@@ -136,13 +137,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A93E158C2080877C00F8D4FF /* InsideTheHat */ = {
+		A99F5E9B20808EB70096E316 /* InsideTheHat */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A93E15B92080877C00F8D4FF /* Build configuration list for PBXNativeTarget "InsideTheHat" */;
+			buildConfigurationList = A99F5ECA20808EB70096E316 /* Build configuration list for PBXNativeTarget "InsideTheHat" */;
 			buildPhases = (
-				A93E15892080877C00F8D4FF /* Sources */,
-				A93E158A2080877C00F8D4FF /* Frameworks */,
-				A93E158B2080877C00F8D4FF /* Resources */,
+				A99F5E9820808EB70096E316 /* Sources */,
+				A99F5E9920808EB70096E316 /* Frameworks */,
+				A99F5E9A20808EB70096E316 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -150,72 +151,72 @@
 			);
 			name = InsideTheHat;
 			productName = InsideTheHat;
-			productReference = A93E158D2080877C00F8D4FF /* InsideTheHat.app */;
+			productReference = A99F5E9C20808EB70096E316 /* InsideTheHat.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A93E15A42080877C00F8D4FF /* InsideTheHatTests */ = {
+		A99F5EB520808EB70096E316 /* InsideTheHatTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A93E15BC2080877C00F8D4FF /* Build configuration list for PBXNativeTarget "InsideTheHatTests" */;
+			buildConfigurationList = A99F5ECD20808EB70096E316 /* Build configuration list for PBXNativeTarget "InsideTheHatTests" */;
 			buildPhases = (
-				A93E15A12080877C00F8D4FF /* Sources */,
-				A93E15A22080877C00F8D4FF /* Frameworks */,
-				A93E15A32080877C00F8D4FF /* Resources */,
+				A99F5EB220808EB70096E316 /* Sources */,
+				A99F5EB320808EB70096E316 /* Frameworks */,
+				A99F5EB420808EB70096E316 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A93E15A72080877C00F8D4FF /* PBXTargetDependency */,
+				A99F5EB820808EB70096E316 /* PBXTargetDependency */,
 			);
 			name = InsideTheHatTests;
 			productName = InsideTheHatTests;
-			productReference = A93E15A52080877C00F8D4FF /* InsideTheHatTests.xctest */;
+			productReference = A99F5EB620808EB70096E316 /* InsideTheHatTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A93E15AF2080877C00F8D4FF /* InsideTheHatUITests */ = {
+		A99F5EC020808EB70096E316 /* InsideTheHatUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A93E15BF2080877C00F8D4FF /* Build configuration list for PBXNativeTarget "InsideTheHatUITests" */;
+			buildConfigurationList = A99F5ED020808EB70096E316 /* Build configuration list for PBXNativeTarget "InsideTheHatUITests" */;
 			buildPhases = (
-				A93E15AC2080877C00F8D4FF /* Sources */,
-				A93E15AD2080877C00F8D4FF /* Frameworks */,
-				A93E15AE2080877C00F8D4FF /* Resources */,
+				A99F5EBD20808EB70096E316 /* Sources */,
+				A99F5EBE20808EB70096E316 /* Frameworks */,
+				A99F5EBF20808EB70096E316 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A93E15B22080877C00F8D4FF /* PBXTargetDependency */,
+				A99F5EC320808EB70096E316 /* PBXTargetDependency */,
 			);
 			name = InsideTheHatUITests;
 			productName = InsideTheHatUITests;
-			productReference = A93E15B02080877C00F8D4FF /* InsideTheHatUITests.xctest */;
+			productReference = A99F5EC120808EB70096E316 /* InsideTheHatUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A93E15852080877C00F8D4FF /* Project object */ = {
+		A99F5E9420808EB70096E316 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = Sourav;
 				TargetAttributes = {
-					A93E158C2080877C00F8D4FF = {
+					A99F5E9B20808EB70096E316 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
-					A93E15A42080877C00F8D4FF = {
+					A99F5EB520808EB70096E316 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
-						TestTargetID = A93E158C2080877C00F8D4FF;
+						TestTargetID = A99F5E9B20808EB70096E316;
 					};
-					A93E15AF2080877C00F8D4FF = {
+					A99F5EC020808EB70096E316 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
-						TestTargetID = A93E158C2080877C00F8D4FF;
+						TestTargetID = A99F5E9B20808EB70096E316;
 					};
 				};
 			};
-			buildConfigurationList = A93E15882080877C00F8D4FF /* Build configuration list for PBXProject "InsideTheHat" */;
+			buildConfigurationList = A99F5E9720808EB70096E316 /* Build configuration list for PBXProject "InsideTheHat" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -223,38 +224,39 @@
 				en,
 				Base,
 			);
-			mainGroup = A93E15842080877C00F8D4FF;
-			productRefGroup = A93E158E2080877C00F8D4FF /* Products */;
+			mainGroup = A99F5E9320808EB70096E316;
+			productRefGroup = A99F5E9D20808EB70096E316 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A93E158C2080877C00F8D4FF /* InsideTheHat */,
-				A93E15A42080877C00F8D4FF /* InsideTheHatTests */,
-				A93E15AF2080877C00F8D4FF /* InsideTheHatUITests */,
+				A99F5E9B20808EB70096E316 /* InsideTheHat */,
+				A99F5EB520808EB70096E316 /* InsideTheHatTests */,
+				A99F5EC020808EB70096E316 /* InsideTheHatUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A93E158B2080877C00F8D4FF /* Resources */ = {
+		A99F5E9A20808EB70096E316 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A93E15932080877C00F8D4FF /* GameScene.sks in Resources */,
-				A93E159B2080877C00F8D4FF /* Assets.xcassets in Resources */,
-				A93E15952080877C00F8D4FF /* Actions.sks in Resources */,
-				A93E159E2080877C00F8D4FF /* Main.storyboard in Resources */,
+				A99F5EAB20808EB70096E316 /* Main.storyboard in Resources */,
+				A99F5EA220808EB70096E316 /* GameScene.sks in Resources */,
+				A99F5EAD20808EB70096E316 /* Assets.xcassets in Resources */,
+				A99F5EB020808EB70096E316 /* LaunchScreen.storyboard in Resources */,
+				A99F5EA420808EB70096E316 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93E15A32080877C00F8D4FF /* Resources */ = {
+		A99F5EB420808EB70096E316 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93E15AE2080877C00F8D4FF /* Resources */ = {
+		A99F5EBF20808EB70096E316 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -264,60 +266,68 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A93E15892080877C00F8D4FF /* Sources */ = {
+		A99F5E9820808EB70096E316 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A93E15992080877C00F8D4FF /* ViewController.swift in Sources */,
-				A93E15972080877C00F8D4FF /* GameScene.swift in Sources */,
-				A93E15912080877C00F8D4FF /* AppDelegate.swift in Sources */,
+				A99F5EA620808EB70096E316 /* GameScene.swift in Sources */,
+				A99F5EA820808EB70096E316 /* GameViewController.swift in Sources */,
+				A99F5EA020808EB70096E316 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93E15A12080877C00F8D4FF /* Sources */ = {
+		A99F5EB220808EB70096E316 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A93E15AA2080877C00F8D4FF /* InsideTheHatTests.swift in Sources */,
+				A99F5EBB20808EB70096E316 /* InsideTheHatTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A93E15AC2080877C00F8D4FF /* Sources */ = {
+		A99F5EBD20808EB70096E316 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A93E15B52080877C00F8D4FF /* InsideTheHatUITests.swift in Sources */,
+				A99F5EC620808EB70096E316 /* InsideTheHatUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A93E15A72080877C00F8D4FF /* PBXTargetDependency */ = {
+		A99F5EB820808EB70096E316 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A93E158C2080877C00F8D4FF /* InsideTheHat */;
-			targetProxy = A93E15A62080877C00F8D4FF /* PBXContainerItemProxy */;
+			target = A99F5E9B20808EB70096E316 /* InsideTheHat */;
+			targetProxy = A99F5EB720808EB70096E316 /* PBXContainerItemProxy */;
 		};
-		A93E15B22080877C00F8D4FF /* PBXTargetDependency */ = {
+		A99F5EC320808EB70096E316 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A93E158C2080877C00F8D4FF /* InsideTheHat */;
-			targetProxy = A93E15B12080877C00F8D4FF /* PBXContainerItemProxy */;
+			target = A99F5E9B20808EB70096E316 /* InsideTheHat */;
+			targetProxy = A99F5EC220808EB70096E316 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		A93E159C2080877C00F8D4FF /* Main.storyboard */ = {
+		A99F5EA920808EB70096E316 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A93E159D2080877C00F8D4FF /* Base */,
+				A99F5EAA20808EB70096E316 /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A99F5EAE20808EB70096E316 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A99F5EAF20808EB70096E316 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A93E15B72080877C00F8D4FF /* Debug */ = {
+		A99F5EC820808EB70096E316 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -346,7 +356,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -365,16 +375,16 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		A93E15B82080877C00F8D4FF /* Release */ = {
+		A99F5EC920808EB70096E316 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -403,7 +413,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -416,101 +426,106 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		A93E15BA2080877C00F8D4FF /* Debug */ = {
+		A99F5ECB20808EB70096E316 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = InsideTheHat/InsideTheHat.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 43QGPBA433;
 				INFOPLIST_FILE = InsideTheHat/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sromic.InsideTheHat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		A93E15BB2080877C00F8D4FF /* Release */ = {
+		A99F5ECC20808EB70096E316 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = InsideTheHat/InsideTheHat.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 43QGPBA433;
 				INFOPLIST_FILE = InsideTheHat/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sromic.InsideTheHat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		A93E15BD2080877C00F8D4FF /* Debug */ = {
+		A99F5ECE20808EB70096E316 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 43QGPBA433;
 				INFOPLIST_FILE = InsideTheHatTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sromic.InsideTheHatTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InsideTheHat.app/Contents/MacOS/InsideTheHat";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InsideTheHat.app/InsideTheHat";
 			};
 			name = Debug;
 		};
-		A93E15BE2080877C00F8D4FF /* Release */ = {
+		A99F5ECF20808EB70096E316 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 43QGPBA433;
 				INFOPLIST_FILE = InsideTheHatTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sromic.InsideTheHatTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InsideTheHat.app/Contents/MacOS/InsideTheHat";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InsideTheHat.app/InsideTheHat";
 			};
 			name = Release;
 		};
-		A93E15C02080877C00F8D4FF /* Debug */ = {
+		A99F5ED120808EB70096E316 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 43QGPBA433;
 				INFOPLIST_FILE = InsideTheHatUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sromic.InsideTheHatUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = InsideTheHat;
 			};
 			name = Debug;
 		};
-		A93E15C12080877C00F8D4FF /* Release */ = {
+		A99F5ED220808EB70096E316 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 43QGPBA433;
 				INFOPLIST_FILE = InsideTheHatUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sromic.InsideTheHatUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = InsideTheHat;
 			};
 			name = Release;
@@ -518,43 +533,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A93E15882080877C00F8D4FF /* Build configuration list for PBXProject "InsideTheHat" */ = {
+		A99F5E9720808EB70096E316 /* Build configuration list for PBXProject "InsideTheHat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A93E15B72080877C00F8D4FF /* Debug */,
-				A93E15B82080877C00F8D4FF /* Release */,
+				A99F5EC820808EB70096E316 /* Debug */,
+				A99F5EC920808EB70096E316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A93E15B92080877C00F8D4FF /* Build configuration list for PBXNativeTarget "InsideTheHat" */ = {
+		A99F5ECA20808EB70096E316 /* Build configuration list for PBXNativeTarget "InsideTheHat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A93E15BA2080877C00F8D4FF /* Debug */,
-				A93E15BB2080877C00F8D4FF /* Release */,
+				A99F5ECB20808EB70096E316 /* Debug */,
+				A99F5ECC20808EB70096E316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A93E15BC2080877C00F8D4FF /* Build configuration list for PBXNativeTarget "InsideTheHatTests" */ = {
+		A99F5ECD20808EB70096E316 /* Build configuration list for PBXNativeTarget "InsideTheHatTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A93E15BD2080877C00F8D4FF /* Debug */,
-				A93E15BE2080877C00F8D4FF /* Release */,
+				A99F5ECE20808EB70096E316 /* Debug */,
+				A99F5ECF20808EB70096E316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A93E15BF2080877C00F8D4FF /* Build configuration list for PBXNativeTarget "InsideTheHatUITests" */ = {
+		A99F5ED020808EB70096E316 /* Build configuration list for PBXNativeTarget "InsideTheHatUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A93E15C02080877C00F8D4FF /* Debug */,
-				A93E15C12080877C00F8D4FF /* Release */,
+				A99F5ED120808EB70096E316 /* Debug */,
+				A99F5ED220808EB70096E316 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A93E15852080877C00F8D4FF /* Project object */;
+	rootObject = A99F5E9420808EB70096E316 /* Project object */;
 }
